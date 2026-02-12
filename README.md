@@ -2,6 +2,10 @@
 
 A professional RESTful API built with **pure PHP** (no frameworks) demonstrating clean code architecture and best practices.
 
+## 📸 Demo
+
+![API Response](product_api_json.png)
+
 ## 🚀 Key Features
 
 - ✅ **RESTful Design** - Standard HTTP methods (GET, POST, PUT, DELETE)
