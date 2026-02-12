@@ -1,7 +1,7 @@
 <?php
 class Product {
     private $conn;
-    private $table_name = "products";
+    private $table_name = "yogi_api_products";
 
     public $id;
     public $name;
