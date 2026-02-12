@@ -1,21 +1,44 @@
-# PHP-REST-API
-Product API
+# PHP REST API - Product Management
 
-# PHP REST API Example
+A professional RESTful API built with **pure PHP** (no frameworks) demonstrating clean code architecture and best practices.
 
-A simple RESTful API built with pure PHP for managing products. Perfect for learning or as a starting point for your projects.
+## 🚀 Key Features
 
-## Features
+- ✅ **RESTful Design** - Standard HTTP methods (GET, POST, PUT, DELETE)
+- ✅ **MVC Architecture** - Organized code structure
+- ✅ **PDO Database** - Secure database interactions with prepared statements
+- ✅ **JSON Responses** - Standard API response format
+- ✅ **CORS Enabled** - Ready for frontend integration
+- ✅ **Clean URLs** - Using .htaccess rewriting
 
-- ✅ CRUD operations (Create, Read, Update, Delete)
-- ✅ RESTful architecture
-- ✅ JSON responses
-- ✅ MVC pattern
-- ✅ PDO database connection
-- ✅ Clean URL routing with .htaccess
+## 🛠️ Tech Stack
+
+- **Backend:** PHP 8.3
+- **Database:** MySQL 8.0
+- **Architecture:** MVC Pattern
+- **Security:** PDO with prepared statements, input sanitization
+
+## 📋 API Endpoints
+
+| Method | Endpoint | Description |
+|--------|----------|-------------|
+| GET | `/api/products` | Get all products |
+| GET | `/api/products/{id}` | Get single product |
+| POST | `/api/products` | Create new product |
+| PUT | `/api/products/{id}` | Update product |
+| DELETE | `/api/products/{id}` | Delete product |
+
+## 🎯 Skills Demonstrated
+
+- RESTful API design principles
+- Object-oriented PHP programming
+- Database design and PDO usage
+- Security best practices (prepared statements, input validation)
+- MVC design pattern
+- Error handling and HTTP status codes
+
 
 ## Requirements
-
 - PHP 7.4 or higher
 - MySQL 5.7 or higher
 - Apache with mod_rewrite enabled
