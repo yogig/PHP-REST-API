@@ -1,4 +1,4 @@
-# PHP REST API - Product Management
+# PHP REST API - Product Management - Yogi Ghorecha
 
 A professional RESTful API built with **pure PHP** (no frameworks) demonstrating clean code architecture and best practices.
 
